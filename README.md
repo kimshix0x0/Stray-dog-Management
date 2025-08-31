@@ -40,4 +40,5 @@ Predictive analytics for high-risk zones
 IoT/mobile app integration for reporting stray dogs
 Linking with health data for rabies prevention analysis
 
-📸 Dashboard Screenshot
+📸 Dashboard Screenshot: 
+https://github.com/kimshix0x0/Stray-dog-Management/blob/main/Screenshot%202025-08-31%20141422.png
